@@ -1,0 +1,14 @@
+C:\Users\Ryzen 5 PC\OneDrive\Documents\Kiano\Inventory system\Inventory System\Inventory System\bin\Debug\Inventory System.exe.config
+C:\Users\Ryzen 5 PC\OneDrive\Documents\Kiano\Inventory system\Inventory System\Inventory System\bin\Debug\Inventory System.exe
+C:\Users\Ryzen 5 PC\OneDrive\Documents\Kiano\Inventory system\Inventory System\Inventory System\bin\Debug\Inventory System.pdb
+C:\Users\Ryzen 5 PC\OneDrive\Documents\Kiano\Inventory system\Inventory System\Inventory System\bin\Debug\Guna.UI2.dll
+C:\Users\Ryzen 5 PC\OneDrive\Documents\Kiano\Inventory system\Inventory System\Inventory System\obj\Debug\Inventory System.csprojResolveAssemblyReference.cache
+C:\Users\Ryzen 5 PC\OneDrive\Documents\Kiano\Inventory system\Inventory System\Inventory System\obj\Debug\Inventory_System.Form1.resources
+C:\Users\Ryzen 5 PC\OneDrive\Documents\Kiano\Inventory system\Inventory System\Inventory System\obj\Debug\Inventory_System.Properties.Resources.resources
+C:\Users\Ryzen 5 PC\OneDrive\Documents\Kiano\Inventory system\Inventory System\Inventory System\obj\Debug\Inventory System.csproj.GenerateResource.Cache
+C:\Users\Ryzen 5 PC\OneDrive\Documents\Kiano\Inventory system\Inventory System\Inventory System\obj\Debug\Inventory System.exe
+C:\Users\Ryzen 5 PC\OneDrive\Documents\Kiano\Inventory system\Inventory System\Inventory System\obj\Debug\Inventory System.pdb
+C:\Users\Ryzen 5 PC\OneDrive\Documents\Kiano\Inventory system\Inventory System\Inventory System\obj\Debug\Inventory_System.Form2.resources
+C:\Users\Ryzen 5 PC\OneDrive\Documents\Kiano\Inventory system\Inventory System\Inventory System\obj\Debug\Inventory_System.appliances.resources
+C:\Users\Ryzen 5 PC\OneDrive\Documents\Kiano\Inventory system\Inventory System\Inventory System\obj\Debug\Inventory_System.furniture.resources
+C:\Users\Ryzen 5 PC\OneDrive\Documents\Kiano\Inventory system\Inventory System\Inventory System\obj\Debug\Inventory_System.kitchenware.resources
