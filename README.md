@@ -1,2 +1,2 @@
-This was a small project that I made way back in 2024 using C# and BUNIFU UI designer which is a UI framework/library mainly used for creating modern-looking desktop applications in C# that is why i was able to 
+This was a small project that I made way back in 2024 using C# and BUNIFU UI designer which is a UI framework/library mainly used for creating modern looking desktop applications in C# that is why i was able to 
 implement a more modern looking interface design despite making the project in visual studio 2013, what I made is an Inventory system that has a CRUD function aswell as search function using Access as the databasse
